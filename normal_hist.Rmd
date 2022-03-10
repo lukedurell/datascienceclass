@@ -1,0 +1,18 @@
+---
+title: "normal_hist"
+author: "Luke Durell"
+date: "3/10/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+This is my histogram
+
+```{r}
+y <- rnorm(100)
+hist(y)
+```
