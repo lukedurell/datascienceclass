@@ -16,3 +16,7 @@ This is my histogram
 y <- rnorm(100)
 hist(y)
 ```
+
+Gauss was a statistician a long time ago.
+
+![Gauss](gauss.jpeg)
